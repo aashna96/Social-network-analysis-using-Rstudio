@@ -1,0 +1,10 @@
+id,name,username,gender,locale,category,likes,birthday,location,rel_status
+101,Shivani,N/A,female,en_US,N/A,10,09-Aug,delhi,single
+102,Seema,N/A,female,en_US,N/A,20,15-Jan,delhi,married
+103,Rahul,N/A,male,en_US,N/A,100,12-Feb,delhi,engaged
+104,Piyush,N/A,male,en_US,N/A,98,17-Aug,delhi,single
+105,Gunjan,N/A,female,en_US,N/A,15,19-Nov,delhi,engaged
+106,Priyanka,N/A,female,en_US,N/A,12,28-Nov,delhi,single
+107,Deepak,N/A,male,en_US,N/A,59,14-Sep,delhi,married
+108,Aakash,N/A,male,en_US,N/A,101,11-Dec,delhi,engaged
+109,shreya,N/A,female,en_US,N/A,19,20-Dec,delhi,single
